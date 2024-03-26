@@ -1,0 +1,32 @@
+{
+  "name": "flor_notepad",
+  "author": {
+    "name": "Luiz Araujo",
+    "email": "luiz.araujo@viaconsulting.com.br",
+    "url": "https://viaconsulting.com.br"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "top_bar": {
+        "url": "assets/iframe.html",
+        "flexible": true
+      }
+    }
+  },
+  "version": "2.0.0",
+  "frameworkVersion": "2.0",
+  "parameters": [
+    {
+      "name": "NotepadObjetctKey",
+      "type": "text",
+      "default": "bloco_de_notas"
+    },
+    {
+      "name": "NotepadObjetctLookup",
+      "type": "text",
+      "default": "24962804097556"
+    }
+  ]
+}
